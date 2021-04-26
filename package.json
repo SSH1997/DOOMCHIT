@@ -1,0 +1,19 @@
+{
+  "name": "doomchit",
+  "version": "1.0.0",
+  "description": "- Study Timer",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SSH1997/DOOMCHIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SSH1997/DOOMCHIT/issues"
+  },
+  "homepage": "https://github.com/SSH1997/DOOMCHIT#readme"
+}
