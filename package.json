@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/SSH1997/DOOMCHIT/issues"
   },
-  "homepage": "https://github.com/SSH1997/DOOMCHIT#readme"
+  "homepage": "https://github.com/SSH1997/DOOMCHIT#readme",
+  "devDependencies": {
+    "typescript": "^4.2.4"
+  }
 }
