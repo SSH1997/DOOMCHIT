@@ -18,5 +18,8 @@
   "homepage": "https://github.com/SSH1997/DOOMCHIT#readme",
   "devDependencies": {
     "typescript": "^4.2.4"
+  },
+  "dependencies": {
+    "@types/node": "^15.0.1"
   }
 }
