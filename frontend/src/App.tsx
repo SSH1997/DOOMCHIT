@@ -1,9 +1,10 @@
-import React from 'react';
+import React from "react";
+import Login from "./Login";
 
-const App:React.FC = () => {
+const App: React.FC = () => {
   return (
     <>
-      hello
+      <Login />
     </>
   );
 };
